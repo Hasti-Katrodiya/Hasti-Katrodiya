@@ -50,5 +50,5 @@
 <br/>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasti-katrodiya&show_icons=true&locale=en&layout=compact" alt="hasti-katrodiya" /></p>
-
+<br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hasti-katrodiya&" alt="hasti-katrodiya" /></p>
