@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <i>Hasti Katrodiya</i></h1>
+<!-- <h1 align="center">Hi 👋, I'm <i>Hasti Katrodiya</i></h1>
 <h3 align="center">Web Developer</h3>
 <br/><br/>
 <hr/>
@@ -51,4 +51,4 @@
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasti-katrodiya&show_icons=true&locale=en&layout=compact" alt="hasti-katrodiya" /></p>
 <br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hasti-katrodiya&" alt="hasti-katrodiya" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hasti-katrodiya&" alt="hasti-katrodiya" /></p> -->
